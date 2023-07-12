@@ -3,4 +3,3 @@ django
 djangorestframework
 dnspython
 PyMySQL==1.0.2
-mysqlclient
