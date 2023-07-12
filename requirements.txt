@@ -2,4 +2,3 @@ requests
 django
 djangorestframework
 dnspython
-mysql-connector-python==8.0.27
