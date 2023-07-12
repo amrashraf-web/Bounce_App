@@ -2,4 +2,4 @@ requests
 django
 djangorestframework
 dnspython
-PyMySQL==1.0.2
+mysql-connector-python==8.0.27
