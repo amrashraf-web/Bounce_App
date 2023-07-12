@@ -2,4 +2,4 @@ requests
 django
 djangorestframework
 dnspython
-mysqlclient==2.2.0
+PyMySQL==1.0.2
