@@ -74,16 +74,6 @@ WSGI_APPLICATION = 'email_checker_api.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'primarydb',
-        'USER': 'root',
-        'PASSWORD': 'EqjAQJFwKq3x18fx',
-        'HOST': 'weepy-fig-3mpf.cs2le4ejjdhy.us-west-2.rds.amazonaws.com',
-        'PORT': '3306',
-    }
-}
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
 
